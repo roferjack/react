@@ -1,1 +1,2 @@
 hello word!
+防止拉取项目不成功，直接下载node_module吧：链接：https://pan.baidu.com/s/1doCv5dls8xw5EbCG06GGhQ 提取码：faw3
